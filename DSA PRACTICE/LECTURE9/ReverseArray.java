@@ -44,11 +44,20 @@ class ReverseArray
 
 /*
 OUTPUT:
+Enter the size: 5
+Input the elements
+1
+2
+3
+4
+5
+5 4 3 2 1
+OUTPUT:
 Enter the size: 4
 Input the elements
-6
-7
-8
-9
-9 7 8 6
+1
+2
+3
+4
+4 3 2 1
 */
