@@ -32,7 +32,7 @@ explanation: 1 is 3 times
 			 2 is 2 times
 			 3 is 1 times
 
-INPUT: arr=[1,2]
+INPUT: arr=[1,2] 
 OUTPUT: false
 
 explanation: 1 is 1 time
