@@ -31,7 +31,7 @@ public class UniqueElements
 
 
 /*
-CODE STUDIO PROBLEM: Find Unique
+CODE STUDIO PROBLEM: Find Unique 
 Sample Input 1:
 1
 7
