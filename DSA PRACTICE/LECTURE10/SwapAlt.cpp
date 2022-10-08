@@ -33,6 +33,7 @@ int main()
 		{
 			cin>>num[i];
 		}
+	
 
 	swapElement(num,size);
 	printAlternate(num,size);
