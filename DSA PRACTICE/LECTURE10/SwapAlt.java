@@ -32,7 +32,7 @@ public class SwapAlt
 			{
 				temp=num[i];
 				num[i]=num[i+1];
-				num[i+1]=temp;
+				num[i+1]=temp; 
 			}
 		}
 	}
