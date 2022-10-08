@@ -32,7 +32,7 @@ class Solution {
             map.put(num, map.getOrDefault(num, 0) + 1);
         }
         Set<Integer> set = new HashSet(map.values());
-        return map.size() == set.size();
+        return map.size() == set.size(); 
     }
 }
 
