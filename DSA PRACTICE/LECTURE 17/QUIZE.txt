@@ -1,0 +1,17 @@
+1. What is the best time complexity of bubble sort?
+
+Ans: O(n) when the array is already sorted.
+
+2. Assume that we use Bubble Sort to sort n distinct elements in ascending order. When does the best case of Bubble Sort occur?
+
+Ans: When elements are sorted in ascending order
+like: 4,5,7,8,9,10
+
+3. The number of swappings needed to sort the numbers 8, 22, 7, 9, 31, 5, 13 in ascending order, using bubble sort is
+
+Ans: round 01: 4
+     round 02: 3
+     round 03: 1
+     round 04: 1
+     round 05: 1
+     Total Swapped: 10
