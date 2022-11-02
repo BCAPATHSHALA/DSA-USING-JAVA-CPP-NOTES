@@ -1,0 +1,23 @@
+1- Length of String✔️
+2- Reverse a String (344 Leetcode)✔️
+3- To Lower Case✔️
+4- Check Palindrome ✔️
+5- Valid Palindrome (125 Leetcode+Code Studio) ✔️
+6- Reverse words (186 and 151 Leetcode)❤️✔️
+7- Maximum occurring character (GFG)✔️
+8- Replace spaces (Code Studio)✔️
+9- Remove all occurrences of substring (1910 Leetcode)❤️✔️
+10- Permutation in String (567 Leetcode)❤️✔️
+11- Remove All Adjacent Duplicates In String (1047 Leetcode)❤️✔️
+12- String Compression (443 Leetcode)❤️✔️
+
+
+
+
+📝01: Remove all non-alphanumeric characters from a String in Java and C++
+		(reguar expression and string method)
+
+
+151 Leetcode: trim and split program:06
+
+438 Leetcode: Find All Anagrams in a String program:10.1
