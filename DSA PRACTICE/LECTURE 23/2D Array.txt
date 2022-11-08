@@ -1,0 +1,8 @@
+1 - Linear search in 2D array
+2 - Find row and column wise sum
+3 - Find Largest row sum and column sum
+4 - Print like a wave (CS)
+5 - Spiral Print (54 Leetcode)
+6 - Rotate matrix at 90 degree (48 Leetcode)❤️
+7 - Search a 2D matrix (74 Leetcode)
+8 - Search a 2D matrix (240 Leetcode)
