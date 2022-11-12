@@ -1,0 +1,32 @@
+1 - Count prime number (204 Leetcode)✔️
+
+Article: 1. Sieve of Eratosthenes Algorithms✔️ https://www.geeksforgeeks.org/sieve-of-eratosthenes/
+		 2. Taylor Series ✔️
+		 3. What is Segmented Sieve ❤✔️ https://www.geeksforgeeks.org/segmented-sieve/
+		 Problem: Find Prime numbers in a range GFG❤️✔️ https://www.geeksforgeeks.org/segmented-sieve-print-primes-in-a-range/
+		 Video link of Segmented Sieve:  https://www.youtube.com/watch?v=j0M8SF6daSs
+		 Video link of Simple Sieve: https://www.youtube.com/watch?v=NZ7-ntEgt6g
+
+2 - GCD or HCF and LCM✔️
+
+Article: 1. Euclid's GCD Algorithm (Coding Ninja)✔️ https://www.codingninjas.com/blog/2020/07/25/explained-euclids-gcd-algorithm/
+		 2. Mathematical Indection✔️
+		 3. Program01: 1979 Leetcode✔️
+
+3 - Fast exponential✔️
+
+Article: 1. Modulo Arithmatics (Codeforces.com)✔️ https://codeforces.com/blog/entry/72527
+		 2. Type casting in CPP ✔️  https://www.programiz.com/cpp-programming/type-conversion
+		 						     https://www.javatpoint.com/type-casting-in-cpp
+		 3. DATA TYPE IN CPP: https://www.geeksforgeeks.org/c-data-types/
+
+Article Homework: 1. Pigeonhole principle GFG https://www.geeksforgeeks.org/discrete-mathematics-the-pigeonhole-principle/
+				  2. Catalan Number GFG https://www.geeksforgeeks.org/applications-of-catalan-numbers/
+				  3. Inclusion-Exclusion and its various Applications GFG https://www.geeksforgeeks.org/inclusion-exclusion-principle-and-programming-applications/
+				  4. Factorial of a big number in CPP and JAVA❤️ https://www.geeksforgeeks.org/factorial-large-number/
+
+				  dataType C++: https://www.geeksforgeeks.org/integer-literal-in-c-cpp-prefixes-suffixes/#:~:text=unsigned%20long%20int%3A%20character%20ul,the%20end%20of%20integer%20constant.
+
+				  data type C++Size and Range: https://www.tutorialspoint.com/cplusplus/cpp_data_types.htm
+
+				  BigInteger Class In Java: https://www.geeksforgeeks.org/biginteger-class-in-java/
